@@ -45,11 +45,11 @@ game.StarterGui:SetCore(
 for i = 1, 10 do
     game.StarterGui:SetCore(
 	    "SendNotification",
-	  {
-		  Title = "SHAZAM!",
-		  Text = "AIMBOT!?!?!?!?",
-	  }
-  )
+	  	{
+			Title = "SHAZAM!",
+		  	Text = "AIMBOT!?!?!?!?",
+	  	}
+  	)
 end
  
  
